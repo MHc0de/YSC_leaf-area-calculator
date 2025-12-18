@@ -24,7 +24,7 @@ measurements.
 
 ## Installation
 
-1.  Download `Yippee Size Calculator (v1.0).zip`
+1.  Download `Yippee Size Calculator (v1.0).zip` (See Releases page for downloads.)
 2.  Extract anywhere
 3.  Contents:
     -   Yippee Size Calculator.exe
