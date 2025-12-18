@@ -3,8 +3,8 @@ A software tool that automatically measures plant leaf area from digital images.
 
 ## Overview
 
-Yippee Size Calculator is a desktop software that analyzes leaf images
-(JPG) and automatically calculates leaf size and related traits. It
+Yippee Size Calculator is a desktop software that analyzes leaf images (JPG or JPEG, TIF, TIFF, PNG) 
+and automatically calculates leaf size and related traits. It
 provides processed images and an Excel file containing extracted
 measurements.
 
@@ -12,13 +12,13 @@ measurements.
 
     project_root/
     ├── test_image_folder/
-    │     └── sample.jpg
+    │     └── image1.jpg
     └── analysis_image_folder/
-          ├── sample1.jpg
-          ├── sample2.jpg
+          ├── image2.jpg
+          ├── image3.jpg
           └── ...
 
--   Only .jpg files are accepted.
+-   '.jpg', ‘.jpeg’, ‘.tif’, ‘.tiff’ or ‘.png files are accepted.
 -   Folder names may be in any language.
 -   Incorrect folder structures cause an error.
 
@@ -39,7 +39,7 @@ Double-click the executable.
 
 ### 2. Setting Step
 
--   Select a JPG image for calibration.
+-   Select an image for calibration.
 -   Confirm the preview.
 -   After 100% processing, continue.
 -   Choose the best leaf-edge matching image.
