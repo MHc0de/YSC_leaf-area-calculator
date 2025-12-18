@@ -10,12 +10,14 @@ measurements.
 
 ## Required Folder Structure
 
-    project_root/
-    ├── test_image_folder/
-    │     └── image1.jpg
-    └── analysis_image_folder/
-          ├── image2.jpg
-          ├── image3.jpg
+    Analysis/
+    ├── Site1/
+    │     └── Image1.jpg
+    |     ├── Image2.jpg
+          └── ...
+    └── Site2/
+          ├── Image1.jpg
+          ├── Image2.jpg
           └── ...
 
 -   '.jpg', ‘.jpeg’, ‘.tif’, ‘.tiff’ or ‘.png files are accepted.
