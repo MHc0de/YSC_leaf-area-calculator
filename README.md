@@ -65,7 +65,7 @@ Results are saved and opened automatically.
 
 ## License
 
-Add your preferred license here.
+To be uploaded later
 
 ## Contact
 
