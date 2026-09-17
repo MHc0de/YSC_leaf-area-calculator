@@ -69,4 +69,4 @@ Add your preferred license here.
 
 ## Contact
 
-For questions, create an Issue on GitHub.
+For questions, send an e-mail to me(minhyo331@gmail.com) or create an Issue on GitHub.
