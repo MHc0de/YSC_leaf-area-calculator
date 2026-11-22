@@ -1,0 +1,28 @@
+{
+    "theme_name" : "LAP",
+    "app_color" : {
+        "dark_one" : "#E2E9F7",
+        "dark_two" : "#1e2229",
+        "dark_three" : "#21252d",
+        "dark_four" : "#272c36",
+        "bg_one" : "#ffffff",
+        "bg_two" : "#E2E9F7",
+        "bg_three" : "#EFF1F7",
+        "icon_color" : "#6C7C96",
+        "icon_hover" : "#8CB8FF",
+        "icon_pressed" : "#66cc22",
+        "icon_active" : "#66bb33",
+        "context_color" : "#9acd32",
+        "context_hover" : "#66bb33",
+        "context_pressed" : "#4B5469",
+        "text_title" : "#606C85",
+        "text_foreground" : "#6B7894",
+        "text_description" : "#7887A6",
+        "text_active" : "#8797BA",
+        "white" : "#f5f6f9",
+        "pink" : "#ff007f",
+        "green" : "#66bb33",
+        "red" : "#ff5555",
+        "yellow" : "#f1fa8c"
+    }
+}

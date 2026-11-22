@@ -65,7 +65,9 @@ Results are saved and opened automatically.
 
 ## License
 
-To be uploaded later
+The original YSC materials are licensed under the [YSC Non-Commercial License](LICENSE). Personal, educational, and research use is permitted under its terms, including prior notification. Use by or on behalf of a for-profit business or other commercial organization, and commercial use including paid services, require prior written permission from YSC: minhyo331@gmail.com.
+
+Third-party components are subject to their own licenses; see [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
 
 ## Contact
 
