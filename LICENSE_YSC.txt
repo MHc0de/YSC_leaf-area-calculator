@@ -1,0 +1,33 @@
+YSC Non-Commercial License
+
+Copyright (c) 2026 [YSC Copyright Holder]
+
+All rights reserved except as expressly permitted below.
+
+This license applies only to the original portions of Yippee Size Calculator (YSC) and associated documentation (the "YSC Materials") for which the copyright holder identified above owns the applicable rights. Third-party components remain subject to their respective licenses, as described in THIRD_PARTY_LICENSES.md.
+
+Permission is hereby granted, free of charge, to use, study, reference, modify, and distribute the YSC Materials solely for non-commercial research, educational, and personal purposes, subject to the following conditions:
+
+1. Non-Commercial Use
+: Commercial use of the YSC Materials, including commercial distribution, sale, or incorporation into commercial products or services, is prohibited without prior written permission from the YSC copyright holder.
+
+2. Attribution
+: Any use, modification, reference to, or distribution of the YSC Materials or their source code must give appropriate credit to the YSC copyright holder and cite the official repository: "https://github.com/MHc0de/YSC_leaf-area-calculator". This copyright notice and license must be retained in copies or substantial portions of the YSC Materials.
+
+3. Prior Notification
+: Before using, modifying, or referencing the YSC Materials or their source code, users must contact the YSC copyright holder by email and briefly describe their intended purpose.
+- Contact: minhyo331@gmail.com
+
+4. Modification and Redistribution
+: Modification and redistribution of the YSC Materials are permitted solely for non-commercial purposes, provided that this license, the original copyright notice, and attribution are preserved.
+Redistributions of modified YSC Materials must indicate that changes were made. This permission does not alter any third-party license obligations.
+
+5. Third-Party Licenses
+: YSC may incorporate third-party components, including PyOneDark_Qt_Widgets_Modern_GUI by Wanderson M. Pimenta, provided under the MIT License.
+All original copyright notices and applicable license terms for third-party components must be preserved.
+Nothing in this license supersedes, restricts, or modifies the rights and permissions granted by a third-party license.
+In particular, the non-commercial and notification requirements above do not apply to MIT-licensed portions solely by virtue of their inclusion in YSC.
+
+6. Disclaimer of Warranty
+- THE YSC MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+- IN NO EVENT SHALL THE YSC COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE YSC MATERIALS OR THEIR USE OR OTHER DEALINGS IN THE YSC MATERIALS, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
